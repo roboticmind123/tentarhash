@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc943facef2c85d8455d4e57d6a16828f97f4dc8d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x20b0cf29615687cf6bb701fbd566532435b8830cb401c4c4adcd86979edddf94",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Abe Rations",
+  "SYMBOL": "AB rat",
+  "MAX_SUPPLY": 1420,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.025,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/abe-rations-v2",
+  "SHOW_BACKGROUND": true
+}
